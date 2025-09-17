@@ -19,7 +19,7 @@ I love bridging mechanical design, embedded systems, and programming to create r
 ## 🚀 About Me
 - 🤖 Focused on **Robotics, ROS1/ROS2, SLAM, Autonomous Systems**  
 - 💻 Programming in **C, C++, Python**  
-- 🔌 Embedded Systems: **Arduino, ESP32, Raspberry Pi**  
+- 🔌 Embedded Systems: **Arduino, ESP32, Raspberry Pi, STM32, PIC, ATMEGA**  
 - 🛠️ Design & Manufacturing: **SolidWorks, CAD/CAM, CNC**  
 - 🎯 Goal: **Build intelligent robots that solve real-world problems**  
 

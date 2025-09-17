@@ -2,14 +2,7 @@
   <img src="https://i.gifer.com/4d3O.gif" alt="Robotic Arm Animation" width="60%" />
 </div>
 
-<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-BoghdadyAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boghdady-ahmed-b945b0275)](https://www.linkedin.com/in/boghdady-ahmed-b945b0275) 
-[![Gmail Badge](https://img.shields.io/badge/-Bogh2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Bogh2003@gmail.com)]
-
-</div>
 
 
 ---

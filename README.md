@@ -31,7 +31,7 @@ class AboutMe {
   const tools = {
     "Robotics" : ["ROS1", "ROS2", "SLAM", "Autonomous Systems"],
     "Programming" : ["C", "C++", "Python"],
-    "Embedded" : ["Arduino", "ESP32", "Raspberry Pi"],
+    "Embedded" : ["Arduino", "ESP32", "Raspberry Pi","TM32", "PIC", "ATMEGA"],
     "Design" : ["SolidWorks", "CAD/CAM", "CNC"],
     "Other" : ["Linux", "Git", "VS Code"]
   };

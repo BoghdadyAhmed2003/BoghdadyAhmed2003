@@ -64,3 +64,14 @@ class AboutMe {
 <div align="center">
   ⚡ _"Robotics is not just about machines — it's applied intelligence shaping the future."_ ⚡
 </div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Boghdady's GitHub stats](https://github-readme-stats.vercel.app/api?username=boghdady&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghdady&layout=compact&theme=tokyonight)
+
+</div>

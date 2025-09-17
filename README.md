@@ -1,5 +1,4 @@
 
----
 
 ````markdown
 <div align="center" width="50%">
@@ -11,48 +10,51 @@
 
 ---
 
-# 👋 About Me  
+# 👋 Hey there, I’m **Boghdady Ahmed**  
 
-💡 **Hi, I’m Boghdady Ahmed ( بغدادي احمد)**  
-- 🎓 I’m a **Mechatronics Engineering student** passionate about **Robotics & Autonomous Systems**.  
-- 🤖 Interested in **ROS2, SLAM, and Control Systems**.  
-- ⚡ I love building **robots that solve real-world problems**.  
-- 🎯 Currently focusing on **Robotics, ROS2, and Embedded Systems**.  
-- 🌍 Open to **collaborating on robotics, embedded systems, and automation projects**.  
+💡 A passionate **Mechatronics Engineering student** who loves building **robots** and exploring **autonomous systems**.  
+I enjoy working on **Robotics, ROS2, Embedded Systems, and CAD Design**, always aiming to bridge theory with real-world applications.  
 
 ---
 
-# 🛠️ Tools & Skills  
+## 🚀 About Me  
+- 🤖 I’m focused on **Robotics, ROS2, and SLAM**.  
+- ⚡ Skilled in **Embedded Systems & Microcontrollers (Arduino, ESP32, Raspberry Pi)**.  
+- 🔧 Strong background in **SolidWorks, CAD/CAM, CNC** for mechanical design.  
+- 🖥️ Programming with **C, C++, Python** for robotics and embedded projects.  
+- 🎯 My goal: **Create intelligent robots that solve real problems**.  
+
+---
+
+## 🛠️ My Toolbox  
 
 ```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "Robotics" : { "ROS1", "ROS2", "SLAM", "Autonomous" },
+class AboutMe {
+  const tools = {
+    "Robotics" : { "ROS1", "ROS2", "SLAM", "Autonomous Systems" },
     "Programming" : { "C", "C++", "Python" },
-    "Embedded" : { "Arduino", "Microcontrollers", "ESP32", "Raspberry Pi" },
-    "Design" : { "SolidWorks", "CAD/CAM", "CNC" },
-    "Other" : { "Git", "Linux", "VS Code" }
+    "Embedded Systems" : { "Arduino", "ESP32", "Microcontrollers", "Raspberry Pi" },
+    "Design & Manufacturing" : { "SolidWorks", "CAD/CAM", "CNC" },
+    "Other Tools" : { "Linux", "Git", "VS Code" }
   };
 }
 ````
 
 ---
 
-# 🚀 What I Do
+## 📌 Current Focus
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />   Currently working on **Autonomous Systems & SLAM**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />   Exploring **ROS2 & Embedded Robotics**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Robotics, Embedded Systems, Control Engineering, or ROS**.
-* ⚡ Fun fact: I enjoy turning **crazy ideas into working robots**.
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />   Working on **Autonomous Robots & SLAM**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />   Learning & implementing **ROS2-based robotics projects**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Open to discussions about **Robotics, Embedded Systems, and Control**.
+* ⚡ Fun fact: *“I love turning ambitious ideas into working robots.”*
 
 ---
 
-# 📬 Connect With Me
+## 🌍 Connect With Me
 
-* 📧 Email: **[boghdady@example.com](mailto:boghdady@example.com)**
-* 💼 LinkedIn: [Boghdady Ahmed](https://www.linkedin.com/)
+* 📧 Email: **[Bogh2003@gmail.com](mailto:Bogh2003@gmail.com)**
+* 💼 LinkedIn: [Boghdady Ahmed](www.linkedin.com/in/boghdady-ahmed-b945b0275)
 * 📷 GitHub: [boghdady](https://github.com/boghdady)
 
 ---
@@ -63,4 +65,3 @@ class About extends Me {
 </div>
 ```
 
----

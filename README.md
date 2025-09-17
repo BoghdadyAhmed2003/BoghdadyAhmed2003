@@ -7,7 +7,7 @@
 
 </div>
 <div align="center">
-  <img src="https://github.com/USERNAME/REPO_NAME/blob/main/images/robotic-arm.gif(https://i.gifer.com/Y5tB.gif)" alt="Robotic Arm Animation" width="60%" />
+  <img src="<iframe src="https://gifer.com/embed/Y5tB" width=480 height=377.412 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>" alt="Robotic Arm Animation" width="60%" />
 </div>
 
 ---

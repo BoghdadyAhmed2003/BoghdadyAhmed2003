@@ -7,7 +7,7 @@
 
 </div>
 <div align="center">
-  <img src="[https://github.com/USERNAME/REPO_NAME/blob/main/images/robotic-arm.gif](https://i.gifer.com/Y5tB.gif)" alt="Robotic Arm Animation" width="60%" />
+  <img src="https://github.com/USERNAME/REPO_NAME/blob/main/images/robotic-arm.gif(https://i.gifer.com/Y5tB.gif)" alt="Robotic Arm Animation" width="60%" />
 </div>
 
 ---

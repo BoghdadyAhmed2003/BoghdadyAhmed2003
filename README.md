@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="<iframe src="https://i.gifer.com/Y5tB.gif" alt="Robotic Arm Animation" width="60%" />
+  <img src="https://i.gifer.com/Y5tB.gif" alt="Robotic Arm Animation" width="60%" />
 </div>
+
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>

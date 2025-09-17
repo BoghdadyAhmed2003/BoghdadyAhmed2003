@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/Y5tB.gif" alt="Robotic Arm Animation" width="60%" />
+  <img src="https://i.gifer.com/4d3O.gif" alt="Robotic Arm Animation" width="60%" />
 </div>
 
 <div align="center">

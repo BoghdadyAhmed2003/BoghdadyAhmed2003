@@ -66,12 +66,14 @@ class AboutMe {
 </div>
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Boghdady's GitHub stats](https://github-readme-stats.vercel.app/api?username=boghdady&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=boghdady&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghdady&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boghdady&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>

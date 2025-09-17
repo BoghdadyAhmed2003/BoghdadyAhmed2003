@@ -1,69 +1,66 @@
+<div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
----
-
-````markdown
-<div align="center" width="50%">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/> <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-BoghdadyAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boghdady-ahmed-b945b0275)](https://www.linkedin.com/in/boghdady-ahmed-b945b0275) 
+[![Gmail Badge](https://img.shields.io/badge/-Bogh2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Bogh2003@gmail.com)]
 
 </div>
 
 ---
 
-# 👋 Hey there, I’m **Boghdady Ahmed**  
+# 👋 مرحبًا — باشمهندس **بغدادي أحمد**
 
-💡 A passionate **Mechatronics Engineering student** who loves building **robots** and exploring **autonomous systems**.  
-I enjoy working on **Robotics, ROS2, Embedded Systems, and CAD Design**, always aiming to bridge theory with real-world applications.  
-
----
-
-## 🚀 About Me  
-- 🤖 I’m focused on **Robotics, ROS2, and SLAM**.  
-- ⚡ Skilled in **Embedded Systems & Microcontrollers (Arduino, ESP32, Raspberry Pi)**.  
-- 🔧 Strong background in **SolidWorks, CAD/CAM, CNC** for mechanical design.  
-- 🖥️ Programming with **C, C++, Python** for robotics and embedded projects.  
-- 🎯 My goal: **Create intelligent robots that solve real problems**.  
+طالب **ميكاترونكس** مهتم ببناء الروبوتات وتطوير أنظمة مستقلة (Autonomous Systems).  
+أعمل على الربط بين التصميم الميكانيكي والبرمجة والأنظمة المدمجة علشان أطلع روبوتات تشتغل في الواقع.
 
 ---
 
-## 🛠️ My Toolbox  
+## 🚀 عني بشكل مختصر
+- 🤖 التخصص: **روبوتكس — ROS1 / ROS2 — SLAM — Autonomous**  
+- 💻 لغات برمجة: **C ، C++ ، Python**  
+- 🔌 أنظمة مدمجة: **Arduino ، ESP32 ، Raspberry Pi**  
+- 🛠️ تصميم وتصنيع: **SolidWorks ، CAD/CAM ، CNC**  
+- 🎯 هدفي: تصميم وتنفيذ روبوتات ذكية تحل مشاكل حقيقية.
 
-```dart
+---
+
+## 🧰 الأدوات (عرض كـ كود)
+~~~dart
 class AboutMe {
   const tools = {
-    "Robotics" : { "ROS1", "ROS2", "SLAM", "Autonomous Systems" },
-    "Programming" : { "C", "C++", "Python" },
-    "Embedded Systems" : { "Arduino", "ESP32", "Microcontrollers", "Raspberry Pi" },
-    "Design & Manufacturing" : { "SolidWorks", "CAD/CAM", "CNC" },
-    "Other Tools" : { "Linux", "Git", "VS Code" }
+    "Robotics" : ["ROS1", "ROS2", "SLAM", "Autonomous Systems"],
+    "Programming" : ["C", "C++", "Python"],
+    "Embedded" : ["Arduino", "ESP32", "Raspberry Pi"],
+    "Design" : ["SolidWorks", "CAD/CAM", "CNC"],
+    "Other" : ["Linux", "Git", "VS Code"]
   };
 }
-````
+~~~
 
 ---
 
-## 📌 Current Focus
-
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> Working on **Autonomous Robots & SLAM**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Learning & implementing **ROS2-based robotics projects**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Open to discussions about **Robotics, Embedded Systems, and Control**.
-* ⚡ Fun fact: *“I love turning ambitious ideas into working robots.”*
+## 📌 حالياً بشتغل على
+- <img alt="gif" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="22" /> تطوير مشاريع **Autonomous Robots & SLAM** (خرائط، ملاحة، كشف عوائق).  
+- <img alt="gif" src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="18" /> تنفيذ واجهات بين **ROS2** والـ hardware (sensors, motors, microcontrollers).  
+- جاهز للتعاون في مشاريع روبوتات/أنظمة مدمجة.
 
 ---
 
-## 🌍 Connect With Me
+## 🔧 مشاريع مميزة (نماذج - عدلهم برابط مشروعك)
+- **روبوت تعقيم أوتوماتيكي** — نظام تعقيم متحرك مع تحكّم أوتوماتيكي ومسارات محددة.  
+- **ذراع روبوتي 6-DOF** — تحكم خطوة بخطوة باستخدام stepper motors وواجهة ROS2.  
+- **نظام مراقبة ذكي للمنزل** — حساس غاز، حساسات حرارة وحركة، إخطار عن طريق الإيميل/ويب.
 
-* 📧 Email: **[Bogh2003@gmail.com](mailto:Bogh2003@gmail.com)**
-* 💼 LinkedIn: [Boghdady Ahmed](https://www.linkedin.com/in/boghdady-ahmed-b945b0275)
-* 📷 GitHub: [boghdady](https://github.com/boghdady)
+---
+
+## ✉️ تواصل
+- 💼 LinkedIn: https://www.linkedin.com/in/boghdady-ahmed-b945b0275  
+- 📧 Email: Bogh2003@gmail.com
 
 ---
 
 <div align="center">
-  ⚡ *"Robotics is not just about machines, it’s about creating intelligent systems that shape the future."* ⚡
+  ⚡ _"Robotics is not just machines — it's applied intelligence shaping the future."_ ⚡
 </div>
-```
-
----

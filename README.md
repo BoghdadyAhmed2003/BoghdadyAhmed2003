@@ -1,5 +1,7 @@
 
 
+---
+
 ````markdown
 <div align="center" width="50%">
 
@@ -44,9 +46,9 @@ class AboutMe {
 
 ## 📌 Current Focus
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />   Working on **Autonomous Robots & SLAM**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />   Learning & implementing **ROS2-based robotics projects**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Open to discussions about **Robotics, Embedded Systems, and Control**.
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> Working on **Autonomous Robots & SLAM**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Learning & implementing **ROS2-based robotics projects**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Open to discussions about **Robotics, Embedded Systems, and Control**.
 * ⚡ Fun fact: *“I love turning ambitious ideas into working robots.”*
 
 ---
@@ -54,14 +56,14 @@ class AboutMe {
 ## 🌍 Connect With Me
 
 * 📧 Email: **[Bogh2003@gmail.com](mailto:Bogh2003@gmail.com)**
-* 💼 LinkedIn: [Boghdady Ahmed](www.linkedin.com/in/boghdady-ahmed-b945b0275)
+* 💼 LinkedIn: [Boghdady Ahmed](https://www.linkedin.com/in/boghdady-ahmed-b945b0275)
 * 📷 GitHub: [boghdady](https://github.com/boghdady)
 
 ---
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="50" /><br>
   ⚡ *"Robotics is not just about machines, it’s about creating intelligent systems that shape the future."* ⚡
 </div>
 ```
 
+---

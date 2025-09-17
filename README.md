@@ -55,7 +55,7 @@ class AboutMe {
 ## 🌍 Connect
 - 💼 LinkedIn: [Boghdady Ahmed](https://www.linkedin.com/in/boghdady-ahmed-b945b0275)  
 - 📧 Email: [Bogh2003@gmail.com](mailto:Bogh2003@gmail.com)  
-- 📷 GitHub: [boghdady](https://github.com/boghdady)  
+
 
 ---
 

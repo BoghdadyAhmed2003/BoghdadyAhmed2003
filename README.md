@@ -6,6 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Bogh2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Bogh2003@gmail.com)]
 
 </div>
+<div align="center">
+  <img src="https://github.com/USERNAME/REPO_NAME/blob/main/images/robotic-arm.gif" alt="Robotic Arm Animation" width="60%" />
+</div>
 
 ---
 
